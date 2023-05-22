@@ -4,7 +4,6 @@
 
 
 //컴파일 성공
-//??
 
 typedef struct diary{
     int year;
